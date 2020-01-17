@@ -1,0 +1,1 @@
+global.backServerEndpoint = 'http://10.16.86.134:9080/manage-api';
